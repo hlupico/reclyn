@@ -34,7 +34,7 @@
         margin: -20px auto 0;
     }
     .banner-caption {
-        color: #444444;
+        color: $tundora;
         margin: 0 auto;
         padding: 15px;
         text-align: left;
@@ -46,7 +46,7 @@
             font-size: 65px;
             margin: 0 auto;
             font-weight: 900;
-            color: #444444;
+            color: $tundora;
             line-height: 75px;
             @media only screen and (max-width: 991px) {
                 font-size: 45px;
@@ -61,7 +61,7 @@
             }
             span {
                 font-weight: 900;
-                color: #444444;
+                color: $tundora;
                 display: block;
             }
         }
@@ -69,7 +69,7 @@
             text-align: left;
             font-size: 36px;
             margin: 15px 0 22px 0px;
-            color: #444444 !important;
+            color: $tundora !important;
             @media only screen and (max-width: 991px) {
                 font-size: 24px;
                 margin: 15px 0 5px;
