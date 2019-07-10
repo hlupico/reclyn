@@ -384,6 +384,13 @@ blockquote {
 /* ============================= */
 /*           Fancy Box           */
 /* ============================= */
+
+/*Adding this myself*/
+.text-right {
+   text-align:right;
+}
+/*Done adding things*/
+
 .fancybox-next span,
 .fancybox-prev span {
   background-image: none !important;
